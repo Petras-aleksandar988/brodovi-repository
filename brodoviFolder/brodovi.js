@@ -34,7 +34,7 @@ plovidba.addEventListener("click", (e) => {
   kreiranjeBrodova();
 });
 
-let listaBrodova = ["broddd"];
+// let listaBrodova = ["broddd"];
 function kreiranjeBrodova() {
   console.log("kreiranje Pozvano");
   console.log(listaBrodova);
